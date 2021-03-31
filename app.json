@@ -1,0 +1,14 @@
+{
+  "name": "Socket-Chat-Example",
+  "description": "poc socket io",
+  "website": "https://github.com/arduido/chatSocket",
+  "repository": "https://github.com/arduido/chatSocket",
+  "logo": "",
+  "success_url": "/",
+  "keywords": ["node", "express", "socket.io", "realtime", "websocket"],
+  "scripts": {},
+  "addons": [],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
